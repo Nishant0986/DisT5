@@ -139,7 +139,7 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ## 👤 Author
 
 **Nishant Kumar**
-[GitHub](https://github.com/Nishant0986) • [LinkedIn](https://linkedin.com/in/)
+[GitHub](https://github.com/Nishant0986) • [LinkedIn](https://linkedin.com/in/nishant-singh-a20296325/)
 
 ---
 
